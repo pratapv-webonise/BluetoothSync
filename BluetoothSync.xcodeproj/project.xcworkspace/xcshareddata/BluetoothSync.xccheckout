@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A66FD0BC-271C-455F-B5C7-A08985AF4B1E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BluetoothSync</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E631559D-8C89-4371-A17E-B1210931BBA0</key>
+		<string>https://github.com/pratapv-webonise/BluetoothSync.git/</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BluetoothSync.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E631559D-8C89-4371-A17E-B1210931BBA0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/pratapv-webonise/BluetoothSync.git/</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E631559D-8C89-4371-A17E-B1210931BBA0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E631559D-8C89-4371-A17E-B1210931BBA0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BluetoothSync</string>
+		</dict>
+	</array>
+</dict>
+</plist>
